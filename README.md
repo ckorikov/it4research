@@ -55,7 +55,7 @@
 
 
 
-### Тренды (2019)
+## Тренды (2019)
 
 - Autonomous things
 - Augumented analytics
