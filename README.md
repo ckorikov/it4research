@@ -2,8 +2,6 @@
 
 Программа для аспирантов института физики, нанотехнологий и телекоммуникаций Политехнического университета Санкт-Петербурга.
 
-
-
 ## Инструменты и технологии (2019)
 
 1. Оформление результатов. 
@@ -45,7 +43,7 @@
 7. Заметки, анализ информации, управление временем.
 
    - Evernote, Onenote, TiddlyWiki, Google Docs.
-   - Mind map. Freemind, 
+   - Mind map. Freemind, mindmeister.com, coggle.it.
    - Техники Promodora, GTD, диаграмма Ганта. 
 
 8. Вычисления и анализ данных.
@@ -71,7 +69,5 @@
 - Quantum Computing
 
 ![img](gartner.png)
-
-
 
 Источник: [5 Trends Appear on the Gartner Hype Cycle for Emerging Technologies, 2019](https://www.gartner.com/smarterwithgartner/5-trends-appear-on-the-gartner-hype-cycle-for-emerging-technologies-2019/)
