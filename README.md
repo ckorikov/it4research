@@ -59,7 +59,7 @@
 
 - Autonomous things
 - Augumented analytics
-- AI-DrivenDevelopment
+- AI-Driven Development
 - Digital Twins
 - Empowered Edge
 - Immersive Technologies
@@ -71,3 +71,5 @@
 ![img](gartner.png)
 
 Источник: [5 Trends Appear on the Gartner Hype Cycle for Emerging Technologies, 2019](https://www.gartner.com/smarterwithgartner/5-trends-appear-on-the-gartner-hype-cycle-for-emerging-technologies-2019/)
+
+Дополнительно: [График Гартнера 2019: о чём все эти модные слова?](https://habr.com/en/company/samsung/blog/477040/)
